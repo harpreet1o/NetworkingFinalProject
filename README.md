@@ -5,6 +5,8 @@ This is my final networking project built in **Cisco Packet Tracer** for a ficti
 
 The design focuses on **real-world scenarios** like departmental scaling, security enforcement, DHCP usage, and DNS setup.
 
+![Network Topology Diagram](./projectImage.png)
+
 ## 🧱 Departments Covered
 - Designing Team 1 (Bus Topology)
 - Designing Team 2 (Star Topology)
